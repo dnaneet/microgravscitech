@@ -1,0 +1,186 @@
+\begin{thebibliography}{28}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Craster and Matar(2009)]{Craster2009a}
+R.~V. Craster and O.~K. Matar.
+\newblock Dynamics and stability of thin liquid films.
+\newblock \emph{Reviews of Modern Physics}, 81\penalty0 (3):\penalty0
+  1131--1198, August 2009.
+
+\bibitem[Pehlivan and \"{O}zdemir(2012)]{Pehlivan2012a}
+H\"{u}seyin Pehlivan and Mustafa \"{O}zdemir.
+\newblock Experimental and theoretical investigations of falling film
+  evaporation.
+\newblock \emph{Heat and Mass Transfer}, pages 1--9, January 2012.
+
+\bibitem[Moresi(1988)]{Moresi1988a}
+M.~Moresi.
+\newblock Apple juice concentration by reverse osmosis and falling film
+  evaporation.
+\newblock \emph{Preconcentration and drying of food materials}, pages 61--76,
+  1988.
+
+\bibitem[Agostini et~al.(2007)Agostini, Fabbri, Park, Wojtan, Thome, and
+  Michel]{Agostini2007a}
+Bruno Agostini, Matteo Fabbri, Jung~E. Park, Leszek Wojtan, John~R. Thome, and
+  Bruno Michel.
+\newblock State of the art of high heat flux cooling technologies.
+\newblock \emph{Heat Transfer Engineering}, 28\penalty0 (4):\penalty0 258--281,
+  2007.
+
+\bibitem[Darabi(2003)]{Darabi2003a}
+J.~Darabi.
+\newblock Development of a chip-integrated micro cooling device.
+\newblock \emph{Microelectronics Journal}, 34\penalty0 (11):\penalty0
+  1067--1074, November 2003.
+
+\bibitem[Marcinichen et~al.(2010)Marcinichen, Thome, and
+  Michel]{Marcinichen2010a}
+Jackson~B. Marcinichen, John~R. Thome, and Bruno Michel.
+\newblock Cooling of microprocessors with micro-evaporation: A novel two-phase
+  cooling cycle.
+\newblock \emph{International Journal of Refrigeration}, 33\penalty0
+  (7):\penalty0 1264--1276, November 2010.
+
+\bibitem[Schramm and Novosad(1992)]{Schramm1992a}
+Laurier~L. Schramm and Jerry~J. Novosad.
+\newblock The destabilization of foams for improved oil recovery by crude oils:
+  Effect of the nature of the oil.
+\newblock \emph{Journal of Petroleum Science and Engineering}, 7\penalty0
+  (1-2):\penalty0 77--90, April 1992.
+
+\bibitem[Bergeron et~al.(1993)Bergeron, Fagan, and Radke]{Bergeron1993a}
+V.~Bergeron, M.~E. Fagan, and C.~J. Radke.
+\newblock Generalized entering coefficients: a criterion for foam stability
+  against oil in porous media.
+\newblock \emph{Langmuir}, 9\penalty0 (7):\penalty0 1704--1713, July 1993.
+
+\bibitem[Cheremisinoff(2003)]{Cheremisinoff2003a}
+Nicholas~P. Cheremisinoff.
+\newblock \emph{Industrial Solvents Handbook}.
+\newblock Marcel Decker, second edition, 2003.
+
+\bibitem[Rayleigh(1916)]{Rayleigh1916a}
+Rayleigh.
+\newblock On convective currents in a horizontal layer of fluid when the higher
+  temperature is on the under side.
+\newblock \emph{Philo. Mag. Series}, 32\penalty0 (6):\penalty0 529--546, 1916.
+
+\bibitem[Pearson(1958)]{Pearson1958a}
+J.~R.~A. Pearson.
+\newblock On convection cells induced by surface tension.
+\newblock \emph{Journal of Fluid Mechanics Digital Archive}, 4\penalty0
+  (05):\penalty0 489--500, 1958.
+
+\bibitem[Benny(1966{\natexlab{a}})]{Benny1966a}
+D.~J. Benny.
+\newblock Long waves on liquid films.
+\newblock \emph{Journal of Mathematics and Physics}, 45\penalty0 (2):\penalty0
+  150--155, 1966{\natexlab{a}}.
+
+\bibitem[Benny(1966{\natexlab{b}})]{Benny1966b}
+D.~J. Benny.
+\newblock Long non-linear waves in fluid flows (long finite amplitude wave
+  motions and interactions in inviscid fluid flows).
+\newblock \emph{Journal of Mathematics and Physics}, 45:\penalty0 52--63,
+  1966{\natexlab{b}}.
+
+\bibitem[Williams and Davis(1982)]{WandD}
+M.~B. Williams and S.~H. Davis.
+\newblock Nonlinear theory of film rupture.
+\newblock \emph{Journal of Colloid and Interface Science}, 90\penalty0
+  (2):\penalty0 220--228, 1982.
+
+\bibitem[Burelbach et~al.(1988)Burelbach, Bankoff, and Davis]{Burelbach}
+J.~P. Burelbach, S.~G. Bankoff, and S.~H. Davis.
+\newblock Nonlinear stability of evaporating/condensing films.
+\newblock \emph{Journal of Fluid Mechanics}, 195:\penalty0 463--494, 1988.
+
+\bibitem[Krishnamoorthy et~al.(1995)Krishnamoorthy, Ramaswamy, and
+  Joo]{Krishnamoorthy1995a}
+S.~Krishnamoorthy, B.~Ramaswamy, and S.~W. Joo.
+\newblock Spontaneous rupture of thin liquid films due to thermocapillarity: A
+  full-scale direct numerical simulation.
+\newblock \emph{Physics of Fluids}, 7\penalty0 (9):\penalty0 2291--2293, 1995.
+
+\bibitem[Vanhook et~al.(1997)Vanhook, Schatz, Swift, McCormick, and
+  Swinney]{Vanhook1997a}
+Stephen~J. Vanhook, Michael~F. Schatz, J.~B. Swift, W.~D. McCormick, and
+  Harry~L. Swinney.
+\newblock Long-wavelength surface-tension-driven benard convection: experiment
+  and theory.
+\newblock \emph{Journal of Fluid Mechanics}, 345\penalty0 (1):\penalty0 45--78,
+  1997.
+
+\bibitem[Oron et~al.(1997)Oron, Davis, and Bankoff]{Oron1997a}
+Alexander Oron, Stephen~H. Davis, and S.~George Bankoff.
+\newblock Long-scale evolution of thin liquid films.
+\newblock \emph{Rev. Mod. Phys.}, 69\penalty0 (3):\penalty0 931--980, Jul 1997.
+
+\bibitem[Oron(2000{\natexlab{a}})]{Oron2000b}
+Alexander Oron.
+\newblock Nonlinear dynamics of three-dimensional long-wave marangoni
+  instability in thin liquid films.
+\newblock \emph{Physics of Fluids}, 12\penalty0 (7):\penalty0 1633--1645,
+  2000{\natexlab{a}}.
+
+\bibitem[Sultan et~al.(2005)Sultan, Boudaoud, and Amar]{Sultan2005a}
+Eric Sultan, Areski Boudaoud, and Martine~B. Amar.
+\newblock Evaporation of a thin film: diffusion of the vapour and marangoni
+  instabilities.
+\newblock \emph{Journal of Fluid Mechanics}, 543:\penalty0 183--202, 2005.
+
+\bibitem[Dietzel and Troian(2009)]{Dietzel2009a}
+Mathias Dietzel and Sandra~M. Troian.
+\newblock Formation of nanopillar arrays in ultrathin viscous films: The
+  critical role of thermocapillary stresses.
+\newblock \emph{Physical Review Letters}, 103\penalty0 (7):\penalty0 074501+,
+  August 2009.
+
+\bibitem[Oron(2000{\natexlab{b}})]{Oron2000c}
+Alexander Oron.
+\newblock Three-dimensional nonlinear dynamics of thin liquid films.
+\newblock \emph{Phys. Rev. Lett.}, 85:\penalty0 2108--2111, Sep
+  2000{\natexlab{b}}.
+
+\bibitem[Pradhan and Samal(1987)]{Pradhan1987a}
+G.~K. Pradhan and P.~C. Samal.
+\newblock Thermal stability of a fluid layer under variable body forces.
+\newblock \emph{Journal of Mathematical Analysis and Applications},
+  122\penalty0 (2), 1987.
+
+\bibitem[Straughan(1989)]{Straughan1989a}
+Brian Straughan.
+\newblock Convection in a variable gravity field.
+\newblock \emph{Journal of Mathematical Analysis and Applications},
+  140\penalty0 (2), 1989.
+
+\bibitem[Ostrach(1982)]{Ostrach1982a}
+I.~Ostrach.
+\newblock Low gravity fluid flows.
+\newblock \emph{Annual Review of Fluid Mechanics}, 14:\penalty0 313--345,
+  January 1982.
+
+\bibitem[Hindmarsh(1987)]{Hindmarsh1987a}
+A.C. Hindmarsh.
+\newblock Lsode: Livermore solver for ordinary differential equations.
+\newblock Technical report, Lawrence Livermore National Laboratory, March 1987.
+
+\bibitem[Struthers et~al.(2010)Struthers, Kolkka, Allen, and
+  Narendranath]{Struthers2010a}
+A.~Struthers, R.W. Kolkka, J.S. Allen, and A.D. Narendranath.
+\newblock Accurately resolving rupture in 4th order partial differential
+  equations modeling thin films using ndsolve.
+\newblock Wolfram Technology Conference 2010, 2010.
+
+\bibitem[Oron and Bankoff(2001)]{Oron2001a}
+Alexander Oron and S.~George Bankoff.
+\newblock Dynamics of a condensing liquid film under conjoining/disjoining
+  pressures.
+\newblock \emph{Physics of Fluids}, 13\penalty0 (5):\penalty0 1107--1117, 2001.
+
+\end{thebibliography}

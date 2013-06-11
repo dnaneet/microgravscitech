@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
+The top-level auxiliary file: dnaneet_06112013c.aux
+The style file: unsrtnat-clean.bst
+Database file #1: dnaneet_MASTER_03272013.bib
+Warning--empty booktitle in Struthers2010a
+You've used 28 entries,
+            2468 wiz_defined-function locations,
+            798 strings with 10426 characters,
+and the built_in function-call counts, 10571 in all, are:
+= -- 950
+> -- 414
+< -- 21
++ -- 176
+- -- 118
+* -- 828
+:= -- 1646
+add.period$ -- 84
+call.type$ -- 28
+change.case$ -- 57
+chr.to.int$ -- 26
+cite$ -- 29
+duplicate$ -- 539
+empty$ -- 1026
+format.name$ -- 160
+if$ -- 2237
+int.to.chr$ -- 3
+int.to.str$ -- 29
+missing$ -- 28
+newline$ -- 148
+num.names$ -- 84
+pop$ -- 209
+preamble$ -- 1
+purify$ -- 28
+quote$ -- 0
+skip$ -- 304
+stack$ -- 0
+substring$ -- 647
+swap$ -- 82
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 193
+warning$ -- 1
+while$ -- 103
+width$ -- 0
+write$ -- 370
+(There was 1 warning)
